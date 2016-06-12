@@ -1,0 +1,6 @@
+{
+  "name": "Biodatasilvi",
+  "tagline": "Pengertian HTML",
+  "body": "HTML adalah singkatan dari Hypertext Markup Language. Disebut hypertext karena di dalam HTML sebuah text biasa dapat berfungsi lain, kita dapat membuatnya menjadi link yang dapat berpindah dari satu halaman ke halaman lainnya dengan hanya meng-klik text tersebut. Kemampuan text inilah yang dinamakan hypertext, walaupun pada implementasinya nanti tidak hanya text yang dapat dijadikan link.\r\n\r\nDisebut Markup Language karena bahasa HTML menggunakan tanda (mark), untuk menandai bagian-bagian dari text. Misalnya, text yang berada di antara tanda tertentu akan menjadi tebal, dan di antara tanda lainnya akan tampak besar. Tanda ini akan kita kenal di HTML sebagai tag.\r\n\r\nJika anda ingin melihat bagaimana sebenarnya HTML, silahkan klik kanan halaman ini, dan pilih View Page Source (di Browser Mozilla Firefox atau Google Chrome) dan akan tampil sebuah halaman baru yang merupakan kode HTML dari halaman ini. Jika anda merasa terintimidasi dengan kode-kode tersebut, anda tidak sendiri, saya juga mengalaminya.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
